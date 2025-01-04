@@ -1,4 +1,4 @@
-# CYBERDOSTI_Project_2
+# ANTIVIRUS MD5
 A basic antivirus program which detects malware signature based on MD5 hash of a file
 
 ## Basic Antivirus Project
